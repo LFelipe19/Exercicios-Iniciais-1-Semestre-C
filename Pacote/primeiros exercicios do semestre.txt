@@ -1,0 +1,42 @@
+#include <stdio.h>
+
+int main() {
+    printf(" Aprendendo algoritimos \n");
+    printf(" Ele nem eh tao dificil! \n");
+
+    printf("Total - 100%% \n");
+    printf("IVA - 17%% \n");
+    printf("IRS - 15%% \n");
+    printf("Liquido - 68%% \n");
+/* coment teste*/
+    // Comentario aleatorio
+
+    /* Cometarios sao usados para explicar algo, deixar o codigo mais limpo, etc.*/
+
+    /* Luis Felipe
+     * 16/08/2022
+     * 09:39*/
+
+    printf("Luis Felipe \n");
+    printf("19 \n");
+    printf("Mogi-Mirim \n");
+
+    printf("\\n - pula linha \n");
+    printf("\\ - imprime barra \n");
+    printf("\\t - imprime tabulacao \n");
+    printf("\\%% - imprime porcentagem \n");
+
+    printf("Hoje esta ensolarado\n");
+
+    printf("\t NUM lugar da Mancha, de cujo nome nao quero lembrar-me, vivia, nao"
+           "ha muito, um fidalgo, dos de lança em cabido, adarga antiga, rocim"
+           "fraco, e galgo corredor. \n\n");
+    printf("\t Passadio, olha seu tanto mais de vaca do que de carneiro, as mais"
+           "das ceias restos da carne picados com sua cebola e vinagre, aos sabados"
+           "outros sobejos ainda somenos, lentilhas as sextas-feiras, algum pombito"
+           "de crescenca aos domingos, consumiam tres quartos do seu haver. O"
+           "remanescente, levavam-no saio de belarte, calcas de veludo para as"
+           "festas, com seus pantufos do mesmo; e para os dias de semana o seu"
+           "bellori do mais fino. \n\n");
+    printf("\t (Dom Quichote de La Mancha – Cervantes) \n");
+}
